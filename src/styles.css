@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.typeahead-input {
+  /* border: 1px solid red; */
+  position: relative;
+}
+
+.typeahead-results {
+  position: absolute;
+  width: 100%;
+}
+
+.testInput {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+button {
+  border: none;
+  border-radius: 0;
+  padding: 10px;
+}
+
+.testButton {
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.newOptionButton {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: #479fb9;
+  color: white;
+}
